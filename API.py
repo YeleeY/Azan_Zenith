@@ -7,5 +7,3 @@ zuhr = response.json()['data']['timings']['Dhuhr']
 asr = response.json()['data']['timings']['Asr']
 magrib = response.json()['data']['timings']['Maghrib']
 isha = response.json()['data']['timings']['Isha']
-
-now = "17:55"
